@@ -1,0 +1,7 @@
+기본 틀
+
+out.println("<html><head><meta charset='utf-8'>");
+		out.println("<title></title></head>");
+		out.println("<body>");		
+		out.println("");
+		out.println("</body></html>");
